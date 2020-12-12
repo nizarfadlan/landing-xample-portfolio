@@ -9,13 +9,16 @@ $(window).scroll(function() {
    }
 });
 
-$('.navbar-toggler').on('click', function () {
+/*$('.navbar-toggler').on('click', function () {
    $('.animated-icon').toggleClass('open')
    if ($('.navbar-collapse').hasClass('show')){
       $('body').attr('style', 'overflow: auto !important');
    } else {
       $('body').attr('style', 'overflow: hidden');
    }
+});*/
+$('.navbar-toggler').on('click', function () {
+   $('.animated-icon').toggleClass('open')
 });
 
 $('.btn-video').on('click', function () {
