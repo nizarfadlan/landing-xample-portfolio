@@ -10,7 +10,7 @@ $(window).scroll(function() {
 });
 
 $('.navbar-toggler').on('click', function () {
-   $('.animated-icon').toggleClass('open')
+   $('.animated-icon').toggleClass('open');
 });
 
 $('.btn-video').on('click', function () {
