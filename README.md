@@ -2,7 +2,7 @@
 
 ![Preview Landing](preview.png)
 
-Design Andre Rio
+Design Andre Rio\
 Slicing Nizar
 
 Copyright Wibucode Team
