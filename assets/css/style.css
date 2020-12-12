@@ -13,10 +13,6 @@ html {
    scroll-behavior: smooth;
 }
 
-.snone{
-   overflow: hidden;
-}
-
 /* Hamburger */
 .animated-icon {
    width: 25px;
