@@ -13,6 +13,18 @@ html {
    scroll-behavior: smooth;
 }
 
+.snone{
+   overflow: hidden;
+}
+
+.btnhide{
+   display: none;
+}
+
+.fullvid{
+   width: 100% !important;
+}
+
 /* Hamburger */
 .animated-icon {
    width: 25px;
