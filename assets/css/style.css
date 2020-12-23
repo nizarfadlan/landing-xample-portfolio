@@ -859,6 +859,7 @@ section{
       float: center;
       justify-content: center;
       width: 100% !important;
+      height: 100% !important;
    }
 
    .jumbotron-img img {
