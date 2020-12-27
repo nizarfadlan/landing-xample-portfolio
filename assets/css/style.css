@@ -41,6 +41,7 @@ html {
    -o-transition: .5s ease-in-out;
    transition: .5s ease-in-out;
    cursor: pointer;
+   outline: none !important;
 }
 
 .animated-icon span {
@@ -141,6 +142,7 @@ main {
 
 .navbar-toggler {
    border-color: transparent !important;
+   outline: none !important;
 }
 
 .navbar-toggler div {
